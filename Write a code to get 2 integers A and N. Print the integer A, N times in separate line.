@@ -1,0 +1,3 @@
+a=list(map(int,input().split()))    #Getting multiple inputs
+for i in range(a[1]):               #am using for loop here
+    print(a[0])                     #print value of A , N times
